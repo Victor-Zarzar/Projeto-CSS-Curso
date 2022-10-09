@@ -62,6 +62,18 @@
 
 .content-header h2 {
     margin: 0;
+    text-align: left;
+    font-size: 25px;
+    margin-bottom: 5px;
+    border-top: 1px solid lightslategray;
+    
+}
+
+.content-header p {
+    margin: 0;
+    text-align: left;
+    font-size: 25px;
+    
 }
 
 .content-section {
